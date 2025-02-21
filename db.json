@@ -2,7 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "time": "2024-02-21T10:00:00Z",
+    },
+    {
+      "id": 2,
+      "title": "bolo",
+      "time": "2024-02-21T11:00:00Z",
     }
   ],
   "profile": {
