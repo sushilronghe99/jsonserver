@@ -69,13 +69,13 @@
   },
   {
     "sequence_id": "SEQ_003",
-     "batch_id": "BATCH_002",
+     "batch_id": "BATCH_001",
     "field_name": "Room Type Code",
     "error_message": "Invalid format"
   },
   {
     "sequence_id": "SEQ_003",
-     "batch_id": "BATCH_002",
+     "batch_id": "BATCH_001",
     "field_name": "Check-in Date",
     "error_message": "Future date not allowed"
   }
