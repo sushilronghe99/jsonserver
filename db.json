@@ -47,15 +47,47 @@
     "sequence_id": "SEQ_002",
      "batch_id": "BATCH_001",
     "hotel_name": "Oceanview Resort",
-    "progress": 75,
+    "progress": 100,
     "status": "In Progress",
     "error_count": 2
   },
   {
     "sequence_id": "SEQ_003",
      "batch_id": "BATCH_001",
+    "hotel_name": "Oceanview Resort",
+    "progress": 100,
+    "status": "Completed",
+    "error_count": 2
+  },
+  {
+    "sequence_id": "SEQ_004",
+     "batch_id": "BATCH_002",
     "hotel_name": "City Center Inn",
     "progress": 20,
+    "status": "In Progress",
+    "error_count": 5
+  },
+  {
+    "sequence_id": "SEQ_005",
+     "batch_id": "BATCH_002",
+    "hotel_name": "City Center Inn",
+    "progress": 40,
+    "status": "In Progress",
+    "error_count": 5
+  },
+  {
+    "sequence_id": "SEQ_006",
+     "batch_id": "BATCH_003",
+    "hotel_name": "City Center Inn",
+    "progress": 100,
+    "status": "Completed",
+    "error_count": 5
+  },
+  {
+    "sequence_id": "SEQ_007",
+     "batch_id": "BATCH_003",
+    "hotel_name": "City Center Inn",
+    "progress": 40,
     "status": "Error",
     "error_count": 5
   }
