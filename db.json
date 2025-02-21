@@ -19,19 +19,19 @@
     "batch_id": "BATCH_001",
     "timestamp": "2024-02-21 10:00:00",
     "progress": 100,
-    "status": "✅ Completed"
+    "status": "Completed"
   },
   {
     "batch_id": "BATCH_002",
     "timestamp": "2024-02-21 12:00:00",
     "progress": 75,
-    "status": "🔄 In Progress"
+    "status": "In Progress"
   },
   {
     "batch_id": "BATCH_003",
     "timestamp": "2024-02-21 14:00:00",
     "progress": 20,
-    "status": "❌ Error"
+    "status": "Error"
   }
 ],
 "sequences":[
@@ -40,7 +40,7 @@
      "batch_id": "BATCH_001",
     "hotel_name": "Hotel Grand Palace",
     "progress": 100,
-    "status": "✅ Completed",
+    "status": "Completed",
     "error_count": 0
   },
   {
@@ -48,7 +48,7 @@
      "batch_id": "BATCH_001",
     "hotel_name": "Oceanview Resort",
     "progress": 75,
-    "status": "🔄 In Progress",
+    "status": "In Progress",
     "error_count": 2
   },
   {
@@ -56,25 +56,25 @@
      "batch_id": "BATCH_001",
     "hotel_name": "City Center Inn",
     "progress": 20,
-    "status": "❌ Error",
+    "status": "Error",
     "error_count": 5
   }
 ],
 "errors":[
   {
-    "sequence_id": "SEQ_001",
+    "sequence_id": "SEQ_003",
      "batch_id": "BATCH_001",
     "field_name": "Hotel Name",
     "error_message": "Missing required value"
   },
   {
-    "sequence_id": "SEQ_001",
+    "sequence_id": "SEQ_003",
      "batch_id": "BATCH_002",
     "field_name": "Room Type Code",
     "error_message": "Invalid format"
   },
   {
-    "sequence_id": "SEQ_002",
+    "sequence_id": "SEQ_003",
      "batch_id": "BATCH_002",
     "field_name": "Check-in Date",
     "error_message": "Future date not allowed"
