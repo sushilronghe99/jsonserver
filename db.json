@@ -38,7 +38,7 @@
   {
     "sequence_id": "SEQ_001",
      "batch_id": "BATCH_001",
-    "hotel_name": "Hotel Grand Palace",
+    "hotel_name": "Hotel Grand Palace, Hotel XYZ, Hotel ABC",
     "progress": 100,
     "status": "Completed",
     "error_count": 0
