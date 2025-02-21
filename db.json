@@ -76,6 +76,14 @@
     "error_count": 5
   },
   {
+    "sequence_id": "SEQ_050",
+     "batch_id": "BATCH_002",
+    "hotel_name": "City Center Inn",
+    "progress": 100,
+    "status": "Completed",
+    "error_count": 5
+  },
+  {
     "sequence_id": "SEQ_006",
      "batch_id": "BATCH_003",
     "hotel_name": "City Center Inn",
