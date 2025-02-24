@@ -18,7 +18,7 @@
     {
       "batch_id": "BATCH_001",
       "timestamp": "2024-02-21 10:00:00",
-      "progress": 100,
+      "progress": 100.0,
       "files": 4,
       "hotels": 4,
       "fields":144,
@@ -27,21 +27,30 @@
     {
       "batch_id": "BATCH_002",
       "timestamp": "2024-02-21 12:00:00",
-      "progress": 75,
+      "progress": 75.2,
       "files":1,
       "hotels":50,
-      "fields":665,
+      "fields":433,
       "status": "Progress"
     },
     {
       "batch_id": "BATCH_003",
       "timestamp": "2024-02-21 14:00:00",
-      "progress": 20,
+      "progress": 20.4,
       "files": 8,
       "hotels": 200,
       "fields":944,
       "status": "Error"
-    }
+    },
+    {
+        "batch_id": "BATCH_004",
+        "timestamp": "2024-02-24 14:00:00",
+        "progress": 40.6,
+        "files": 5,
+        "hotels": 104,
+        "fields":655,
+        "status": "Error"
+      }
   ],
   "sequences":[
     {
