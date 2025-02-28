@@ -21,6 +21,7 @@
       "progress": 100.0,
       "files": 4,
       "hotels": 4,
+       "Data Objects":121,
       "fields":144,
       "status": "Completed"
     },
@@ -30,6 +31,7 @@
       "progress": 75.2,
       "files":1,
       "hotels":50,
+"Data Objects":144,
       "fields":433,
       "status": "Progress"
     },
@@ -39,6 +41,7 @@
       "progress": 20.4,
       "files": 8,
       "hotels": 200,
+"Data Objects":356,
       "fields":944,
       "status": "Error"
     },
@@ -48,6 +51,7 @@
         "progress": 40.6,
         "files": 5,
         "hotels": 104,
+"Data Objects":246,
         "fields":655,
         "status": "Error"
       }
