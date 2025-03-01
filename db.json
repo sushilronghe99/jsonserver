@@ -35,6 +35,16 @@
       "fields":433,
       "status": "Progress"
     },
+        {
+      "batch_id": "S_1005",
+      "timestamp": "2024-02-21 12:00:00",
+      "progress": 90,
+      "files":5,
+      "hotels":56,
+"Data Objects":171,
+      "fields":512,
+      "status": "Progress"
+    },
     {
       "batch_id": "S_1003",
       "timestamp": "2024-02-21 14:00:00",
