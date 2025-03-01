@@ -64,6 +64,16 @@
 "Data Objects":246,
         "fields":655,
         "status": "Error"
+      },
+          {
+        "batch_id": "S_1006",
+        "timestamp": "2024-02-24 14:00:00",
+        "progress": 80,
+        "files": 1,
+        "hotels": 32,
+"Data Objects":34,
+        "fields":98,
+        "status": "Error"
       }
   ],
   "sequences":[
