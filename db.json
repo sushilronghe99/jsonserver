@@ -38,22 +38,22 @@
         {
       "batch_id": "S_1005",
       "timestamp": "2024-02-21 12:00:00",
-      "progress": 30,
+      "progress": 100,
       "files":5,
       "hotels":56,
 "Data Objects":171,
       "fields":512,
-      "status": "Progress"
+      "status": "Completed"
     },
     {
       "batch_id": "S_1003",
       "timestamp": "2024-02-21 14:00:00",
-      "progress": 100,
+      "progress": 67,
       "files": 8,
       "hotels": 200,
 "Data Objects":356,
       "fields":944,
-      "status": "Completed"
+      "status": "Progress"
     },
     {
         "batch_id": "S_1004",
@@ -62,17 +62,17 @@
         "files": 5,
         "hotels": 104,
 "Data Objects":246,
-        "fields":655,
+        "fields":435,
         "status": "Completed"
       },
           {
         "batch_id": "S_1006",
         "timestamp": "2024-02-24 14:00:00",
         "progress": 40,
-        "files": 1,
+        "files": 6,
         "hotels": 32,
 "Data Objects":34,
-        "fields":98,
+        "fields":655,
         "status": "Error"
       }
   ],
